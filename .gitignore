@@ -1,0 +1,8 @@
+CMakeBuildFiles/
+bin/WebServer
+.idea/
+/external/vcpkg/buildtrees
+/external/vcpkg/packages
+/external/vcpkg/downloads
+/external/vcpkg/installed
+vcpkg_installed/
