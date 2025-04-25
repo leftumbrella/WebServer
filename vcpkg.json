@@ -1,0 +1,14 @@
+{
+  "name": "web-server",
+  "version": "0.1.0",
+  "dependencies": [
+    "opencv",
+    "boost-beast",
+    "boost-asio",
+    "boost-system",
+    "boost-thread",
+    "boost-json",
+    "boost-property-tree",
+    "boost-redis"
+  ]
+}
