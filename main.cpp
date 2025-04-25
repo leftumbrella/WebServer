@@ -1,6 +1,7 @@
 #include <iostream>
-
+#include "Utils.h"
 int main(){
-    std::cout << "Hello World!" << std::endl;
+    auto img = Captchpublic::GetImage(4);
+    cv::imwrite("./code.jpg",img.second);
     return 0;
 }

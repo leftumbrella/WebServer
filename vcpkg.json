@@ -9,6 +9,8 @@
     "boost-thread",
     "boost-json",
     "boost-property-tree",
-    "boost-redis"
+    "boost-redis",
+    "spdlog",
+    "openssl"
   ]
 }
