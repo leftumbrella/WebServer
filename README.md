@@ -6,5 +6,5 @@ git submodule update --remote --merge
 cd external/vcpkg
 ./bootstrap-vcpkg.sh
 cd ../..
-./external/
+./external/vcpkg/vcpkg install
 ```
